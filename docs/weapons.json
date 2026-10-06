@@ -1,0 +1,7 @@
+{
+  "weapons": [
+    { "id": "pistol", "damage": 25, "cooldown": 0.35 },
+    { "id": "rifle", "damage": 15, "cooldown": 0.1 },
+    { "id": "shotgun", "damage": 60, "cooldown": 1.2 }
+  ]
+}
